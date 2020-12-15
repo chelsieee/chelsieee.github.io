@@ -1,2 +1,1 @@
-# chelsieee.github.io
-firstProject
+# COVID-19-DASHBOARD
