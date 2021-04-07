@@ -11,3 +11,5 @@ Dynamically Utilize CSS/Bootstrap to polish the applicate and realise mobile com
 Refering to Chart.js to visualise data retrieved from API into a bar chart
 
 WORK ON IN FUTURE: use a more reliable API construct basic element with class and use constructor function to create basic class and inheritant class in order to avoid duplication of codes
+
+--check the main repository
