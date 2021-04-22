@@ -17,8 +17,8 @@ This API provides a big range of detailed information about coronavirus. From CO
 Site published at: https://chelsieee.github.io/
 
 ## Screenshots
-
-
+![Example screenshot](/image.js/landingPage.png)
+![Example screenshot](/image.js/countryData.png)
 
 ## Technologies
 * jquery-3.5.1
